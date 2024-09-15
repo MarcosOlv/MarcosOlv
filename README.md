@@ -18,5 +18,5 @@
 Apaixonado por tecnologia, E Me Empenhando Cada Vez Mais Para Aprender Tudo Sobre esse mundo.
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosOlv&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MarcosOlv=anuraghazra&hide=javascript,html)
 
